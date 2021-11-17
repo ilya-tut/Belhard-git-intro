@@ -1,3 +1,3 @@
 print ("first message")
 print ("first change")
-print ("third")
+print ("chane after commit")
